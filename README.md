@@ -5,3 +5,6 @@
 - creates as many files as ypu want (also by altering)
 - it will look something like *check cryimg.png*
 - and yeah, it wont work without the api key, so make sure to get that (you can message me for my api key as well)
+
+
+## still many improvements to make
