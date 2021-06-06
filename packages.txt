@@ -1,0 +1,3 @@
+requests
+pandas
+install via pip install (package)
