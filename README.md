@@ -3,4 +3,5 @@
 - creates a csv file with the data in your system
 - updates every *whatever time you want* seconds (you can alter the code)
 - creates as many files as ypu want (also by altering)
+- it will look something like *check cryimg.png*
 - and yeah, it wont work without the api key, so make sure to get that (you can message me for my api key as well)
