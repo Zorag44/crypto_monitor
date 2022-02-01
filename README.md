@@ -5,7 +5,7 @@
 - creates as many files as you want (also by altering)
 - it will look something like 
 - ![cryimg](https://user-images.githubusercontent.com/75122924/151935810-16f22984-0886-40d1-a052-dbe7bb2aac31.png)
-- and yeah, it wont work without the api key, so make sure to get that (you can message me for my api key as well)
+- and yeah, it wont work without the api key
 
 
 ## still many improvements to make
