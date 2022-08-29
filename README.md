@@ -1,3 +1,4 @@
+# Bot repo - https://github.com/Zorag44/crypmon_discord_bot
 # crypto_monitor
 - input upto 1000 different cryptos and monitor their prices, percent change in 24hours, percent change in 7 days
 - creates a csv file with the data in your system
